@@ -1,5 +1,11 @@
 # README
 
+```
+src: https://www.youtube.com/watch?v=7G0oWn2Gn5c
+Implements Tailwind CSS
+Implements Hotwire
+```
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
