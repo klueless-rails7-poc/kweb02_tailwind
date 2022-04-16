@@ -4,6 +4,12 @@
 src: https://www.youtube.com/watch?v=7G0oWn2Gn5c
 Implements Tailwind CSS
 Implements Hotwire
+
+PLUS
+
+yarn add react react-dom
+
+
 ```
 
 This README would normally document whatever steps are necessary to get the
